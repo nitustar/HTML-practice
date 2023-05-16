@@ -1,0 +1,16 @@
+h1{
+    background-color: plum;
+    text-align: center;
+    border: 2px solid green;
+    color: indigo;
+}
+p{
+    color: indianred;
+}
+a{
+    color:green
+}
+
+ul>li{
+    list-style-type:square;
+}
